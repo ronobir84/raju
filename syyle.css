@@ -1,0 +1,28 @@
+
+
+
+
+
+
+
+
+@media screen and (max-width: 576px){
+    
+    
+    #blog-main{
+        position: relative;
+        left: 20px;
+    }
+    #image-con{
+        width: 100px;
+    }
+    
+    #card-container{
+        display: flex;
+        flex-direction: column;
+        margin-left: 4px;
+    }
+    #tab-container{
+        
+    }
+}
